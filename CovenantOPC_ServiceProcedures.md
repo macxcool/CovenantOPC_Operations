@@ -15,6 +15,13 @@
    a. Wait for a little while and try again if the projector doesn’t turn on
 
 4. Make sure the service file is loaded in the OpenLP software. Services are listed by date and time in the Dropbox folder on the computer. This can be accessed via the file dialog in OpenLP.
+   
+   1. Test OpenLP by loading the first item in the service by...
+      ![](images/placeholder.png)
+   
+   2. Blank the screen by clicking the blank button in OpenLP
+      ![](images/placeholder.png)
+      or by hitting '.' on the keyboard (it's marked with green masking tape)
 
 5. Make sure the power bar below the podium is turned on.
 
@@ -40,6 +47,14 @@ When the Projector is on and both OpenLP and Discord are started up (this may ta
 ### when the projector is needed
 
 1. Make sure the 
+
+### when the speaker is speaking
+
+1. Make sure the pulpit mic. is turned up by...
+
+### when the congregation is singing or speaking
+
+1. Make sure the pulpit mic. is turned down by...
 
 ## After the service
 
