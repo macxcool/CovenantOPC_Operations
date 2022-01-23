@@ -76,7 +76,9 @@ When the Projector is on and both OpenLP and Discord are started up (this may ta
 
 - [ ] The microphone reciever is on and set to channel 2
 
----
+
+
+\newpage
 
 ## During the service
 
@@ -98,9 +100,7 @@ When the Projector is on and both OpenLP and Discord are started up (this may ta
 
 
 
-
-
----
+\newpage
 
 ## After the service
 
@@ -114,7 +114,7 @@ When the Projector is on and both OpenLP and Discord are started up (this may ta
 
 
 
----
+\newpage
 
 ## WHAT TO DO WHEN...
 
