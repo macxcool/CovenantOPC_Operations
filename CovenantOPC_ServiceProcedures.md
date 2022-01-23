@@ -23,17 +23,17 @@
 When the Projector is on and both OpenLP and Discord are started up (this may take a little while since these are older laptops) it's time to connect Discord to the auditorium audio and set up the projector screen streaming (VNC connection) on Discord.
 
 1. Make sure you're viewing the 'Covenant OPC' Discord server by clicking on the server icon on the left
-   ![](/home/mark/.config/marktext/images/2022-01-23-07-33-45-image.png)
+   ![](images/server_icon.png)
 
 2. Scroll down in the channel list until you see the list of 'AUDIO/VIDEO CHANNELS' and click on the 'Presentations/Meetings' channel to connect the Covenant user to the voice channel.
-   ![](/home/mark/.config/marktext/images/2022-01-23-07-34-39-image.png)
+   ![](images/connect_voice.png)
 
 3. On the Discord computer start the slide viewing connection (VNC client) by...
 
 4. Start showing the slide view on Discord by clicking 'Screen' near the bottom-left
-   ![](/home/mark/.config/marktext/images/2022-01-23-08-45-38-image.png)
+   ![](images/screenshare_connect.png)
    and selecting the window with the projector slides under 'Applications'
-   ![](/home/mark/.config/marktext/images/2022-01-23-08-49-03-image.png)
+   ![](images/screenshare_chooseapp.png)
 
 ## During the service
 
@@ -46,7 +46,7 @@ When the Projector is on and both OpenLP and Discord are started up (this may ta
 1. Turn off the projector
 
 2. Disconnect the Covenant user from the Discord channel by clicking the 'disconnect' button near the bottom-left of the Discord window.
-   ![](/home/mark/.config/marktext/images/2022-01-23-07-30-03-image.png)
+   ![](images/disconnect_voice.png)
 
 ## WHAT TO DO WHEN...
 
@@ -61,11 +61,3 @@ When the Projector is on and both OpenLP and Discord are started up (this may ta
 ### the slide viewing window (VNC client) won't connect
 
 - restart the VNC server on the OpenLP (podium) computer by double-clicking on the shortcut on the desktop. Minimize OpenLP first. Then try to connect again.
-
-
-
-
-
-
-
-
