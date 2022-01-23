@@ -1,5 +1,7 @@
 # Service/Meeting Procedures
 
+
+
 ## Before the service
 
 1. Turn on the OpenLP computer (the laptop on the wooden podium) by holding down the power button for about a second
@@ -17,10 +19,13 @@
 4. Make sure the service file is loaded in the OpenLP software. Services are listed by date and time in the Dropbox folder on the computer. This can be accessed via the file dialog in OpenLP.
    
    1. Test OpenLP by loading the first item in the service by...
+      
       ![](images/placeholder.png)
    
    2. Blank the screen by clicking the *blank* button in OpenLP
+      
       ![](images/placeholder.png)
+      
       or by hitting '.' on the keyboard (it's marked with green masking tape)
 
 5. Make sure the power bar below the podium is turned on.
@@ -30,17 +35,26 @@
 When the Projector is on and both OpenLP and Discord are started up (this may take a little while since these are older laptops) it's time to connect Discord to the auditorium audio and set up the projector screen streaming (VNC connection) on Discord.
 
 1. Make sure you're viewing the 'Covenant OPC' Discord server by clicking on the server icon on the left
+   
    ![](images/server_icon.png)
 
 2. Scroll down in the channel list until you see the list of 'AUDIO/VIDEO CHANNELS' and click on the 'Presentations/Meetings' channel to connect the Covenant user to the voice channel.
+   
    ![](images/connect_voice.png)
 
 3. On the Discord computer start the slide viewing connection (VNC client) by...
 
 4. Start showing the slide view on Discord by clicking 'Screen' near the bottom-left
+   
    ![](images/screenshare_connect.png)
+   
    and selecting the window with the projector slides under 'Applications'
+   
    ![](images/screenshare_chooseapp.png)
+
+
+
+---
 
 ### pre-service checklist
 
@@ -62,6 +76,8 @@ When the Projector is on and both OpenLP and Discord are started up (this may ta
 
 - [ ] The microphone reciever is on and set to channel 2
 
+---
+
 ## During the service
 
 ### when the projector is needed
@@ -72,7 +88,7 @@ When the Projector is on and both OpenLP and Discord are started up (this may ta
 
 - **Blank** the projector using the *blank* button or the '.' key on the keyboard.
 
-### when the *speaker* is speaking
+### when the *speaker* is speaking by himself
 
 - Make sure the pulpit mic. is turned on by switching the receiver on top of the podium to channel **2**
 
@@ -80,12 +96,25 @@ When the Projector is on and both OpenLP and Discord are started up (this may ta
 
 - Make sure the pulpit mic. is turned off by switching the receiver to channel **1**
 
+
+
+
+
+---
+
 ## After the service
 
-1. Turn off the projector
+1. Turn off the projector using the remote
 
 2. Disconnect the Covenant user from the Discord channel by clicking the 'disconnect' button near the bottom-left of the Discord window.
+   
    ![](images/disconnect_voice.png)
+
+
+
+
+
+---
 
 ## WHAT TO DO WHEN...
 
@@ -100,3 +129,13 @@ When the Projector is on and both OpenLP and Discord are started up (this may ta
 ### the slide viewing window (VNC client) won't connect
 
 - restart the VNC server on the OpenLP (podium) computer by double-clicking on the shortcut on the desktop. Minimize OpenLP first. Then try to connect again.
+
+
+
+
+
+
+
+
+
+
