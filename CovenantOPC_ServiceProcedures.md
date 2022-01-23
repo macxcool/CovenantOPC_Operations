@@ -19,13 +19,13 @@
    1. Test OpenLP by loading the first item in the service by...
       ![](images/placeholder.png)
    
-   2. Blank the screen by clicking the blank button in OpenLP
+   2. Blank the screen by clicking the *blank* button in OpenLP
       ![](images/placeholder.png)
       or by hitting '.' on the keyboard (it's marked with green masking tape)
 
 5. Make sure the power bar below the podium is turned on.
 
-6. ...
+6. Make sure the pulpit mic is turned on and the reciever on top of the podium is on and set to channel 2.
 
 When the Projector is on and both OpenLP and Discord are started up (this may take a little while since these are older laptops) it's time to connect Discord to the auditorium audio and set up the projector screen streaming (VNC connection) on Discord.
 
@@ -42,19 +42,43 @@ When the Projector is on and both OpenLP and Discord are started up (this may ta
    and selecting the window with the projector slides under 'Applications'
    ![](images/screenshare_chooseapp.png)
 
+### pre-service checklist
+
+- [ ] OpenLP is running
+
+- [ ] Discord is running
+
+- [ ] The projector is on
+
+- [ ] The service is loaded in OpenLP
+
+- [ ] The first service item is 'Live' in OpenLP
+
+- [ ] The projector is 'blanked'
+
+- [ ] The Covenant user is connected to the Presentations/Meetings channel in Discord
+
+- [ ] The slide viewing window is visible and streaming on Discord
+
+- [ ] The microphone reciever is on and set to channel 2
+
 ## During the service
 
 ### when the projector is needed
 
-1. Make sure the 
+- **Unblank** the projector using the *blank* button or the '.' key on the keyboard.
 
-### when the speaker is speaking
+### when the projector is *not* needed
 
-1. Make sure the pulpit mic. is turned up by...
+- **Blank** the projector using the *blank* button or the '.' key on the keyboard.
 
-### when the congregation is singing or speaking
+### when the *speaker* is speaking
 
-1. Make sure the pulpit mic. is turned down by...
+- Make sure the pulpit mic. is turned on by switching the receiver on top of the podium to channel **2**
+
+### when the *congregation* is singing or speaking
+
+- Make sure the pulpit mic. is turned off by switching the receiver to channel **1**
 
 ## After the service
 
