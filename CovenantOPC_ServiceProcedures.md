@@ -109,8 +109,17 @@ When the Projector is on and both OpenLP and Discord are started up (this may ta
 2. Disconnect the Covenant user from the Discord channel by clicking the 'disconnect' button near the bottom-left of the Discord window.
    
    ![](images/disconnect_voice.png)
+   
 
+3. ...
 
+### if this is the last service of the day
+
+1. Turn off the Discord computer using the menu
+
+2. Turn off the OpenLP computer using the menu
+
+3. ...
 
 
 
