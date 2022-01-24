@@ -10,7 +10,7 @@
    
    a. Everything starts up automatically. Just wait for Discord to start. Be patient.
 
-3. Turn on the overhead projector by firmly pressing the power button on the projector remote control while pointing it at the projector.
+3. Turn on the overhead projector by firmly pressing the power button on the projector remote control while pointing it at the projector. There is an audible 'beep'.
    
    a. Wait for a little while and try again if the projector doesn’t turn on
 
@@ -18,7 +18,7 @@
    
    ![](images/open_service.png)
    
-   1. Test OpenLP by loading the first item in the service by double clicking on it (it will be the first item in the list)
+   1. Prepare for the service start by loading the first item in the service by double clicking on it (it will be the first item in the list)
 
       ![](images/first_service_item.png)
 
@@ -28,35 +28,35 @@
    ![](images/show_black.png)
    
    
-   or by hitting '.' on the keyboard (it's marked with green masking tape). the button to the left (or '.' again) shows the presentation again.
+   or by hitting '.' on the keyboard (it's marked with green masking tape). the button to the left (or '.', again) shows the presentation once more.
    
    ![](images/show_live.png)
 
-5. Make sure the power bar below the podium is turned on.
+5. Make sure the power bar below the podium is turned on. This is the power for the sound board.
 
-6. Make sure the pulpit mic is turned on and the reciever on top of the podium is on and set to channel 2.
+6. Make sure the pulpit mic receiver on top of the podium is switched on and set to channel **2**.
 
-When the Projector is on and both OpenLP and Discord are started up (this may take a little while since these are older laptops) it's time to connect Discord to the auditorium audio and set up the projector screen streaming (VNC connection) on Discord.
+When everything is on, connect Discord to the auditorium audio and set up the projector screen streaming (VNC connection) on Discord.
 
 1. Make sure you're viewing the 'Covenant OPC' Discord server by clicking on the server icon on the left
-   
-   
+
    ![](images/server_icon.png)
 
 2. Scroll down in the channel list until you see the list of 'AUDIO/VIDEO CHANNELS' and click on the 'Presentations/Meetings' channel to connect the Covenant user to the voice channel.
    
-   
    ![](images/connect_voice.png)
 
-3. On the Discord computer start the slide viewing connection (VNC client) by...
+3. View the *thoughts-on-virtual-worship* text channel by clicking on it in the channel list. This allows you to communicate with viewers about prayer requests and Discord issues.
 
-4. Start showing the slide view on Discord by clicking 'Screen' near the bottom-left
+4. On the Discord computer start the slide viewing connection (VNC client) by clicking the Remmina icon in the notification area (bottom-right) and selecting the only available connection.
+
+5. Start showing the slide view on Discord by clicking 'Screen' near the bottom-left
    
    
    ![](images/screenshare_connect.png)
    
    
-   and selecting the window with the projector slides under 'Applications'
+   and selecting the window with the projector slides showing under 'Applications'
    
    
    ![](images/screenshare_chooseapp.png)
@@ -79,13 +79,27 @@ When the Projector is on and both OpenLP and Discord are started up (this may ta
 
 - [ ] The Covenant user is connected to the Presentations/Meetings channel in Discord
 
+- [ ] You are viewing the *thoughts-on-virtual worship* text channel
+
 - [ ] The slide viewing window is visible and streaming on Discord
 
 - [ ] The microphone reciever is on and set to channel 2
 
+- [ ] The power bar is switched on
+
+- [ ] The recording device is on and ready
+
 \newpage
 
 ## During the service
+
+### WHEN THE SERMON STARTS
+
+- Press the red *record* button on the recorder... twice
+
+### when the sermon ends
+
+- Press the *stop* button on the recorder
 
 ### when the projector is needed
 
@@ -95,13 +109,17 @@ When the Projector is on and both OpenLP and Discord are started up (this may ta
 
 - **Blank** the projector using the *Show Black* button or the '.' key on the keyboard.
 
-### when the *speaker* is speaking by himself
+### when the *speaker* is speaking *by himself*
 
-- Make sure the pulpit mic. is turned on by switching the receiver on top of the podium to channel **2**
+- Make sure the pulpit mic. is enabled by switching the receiver on top of the podium to channel **2**
 
 ### when the *congregation* is singing or speaking
 
-- Make sure the pulpit mic. is turned off by switching the receiver to channel **1**
+- Make sure the pulpit mic. is turned off by switching the receiver to channel **1** or **3**
+
+### when items for prayer are requested
+
+- Keep an eye on the text channel so that people can make requests there. Pass them on to the person who will be praying
 
 \newpage
 
@@ -113,7 +131,9 @@ When the Projector is on and both OpenLP and Discord are started up (this may ta
    
    ![](images/disconnect_voice.png)
 
-3. ...
+3. Turn off the microphone receiver
+
+4. 
 
 ### if this is the last service of the day
 
@@ -139,4 +159,8 @@ When the Projector is on and both OpenLP and Discord are started up (this may ta
 
 - restart the VNC server on the OpenLP (podium) computer by double-clicking on the shortcut on the desktop. Minimize OpenLP first. Then try to connect again.
 
-### one more thing
+### The mic audio isn't coming through the speaker
+
+- make sure the receiver is switched on
+
+- make sure the channel is set to **2**
