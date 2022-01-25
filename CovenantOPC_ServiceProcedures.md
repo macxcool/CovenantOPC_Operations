@@ -46,8 +46,6 @@ When everything is on, connect Discord to the auditorium audio and set up the pr
    <img src="images/screenshare_connect.png" title="" alt="" data-align="left">and selecting the window with the projector slides showing under 'Applications'
    <img src="images/screenshare_chooseapp.png" title="" alt="" data-align="left">
 
-
-
 ### pre-service checklist
 
 - [ ] OpenLP is running
