@@ -46,7 +46,7 @@ When everything is on, connect Discord to the auditorium audio and set up the pr
    <img src="images/screenshare_connect.png" title="" alt="" data-align="left">and selecting the window with the projector slides showing under 'Applications'
    <img src="images/screenshare_chooseapp.png" title="" alt="" data-align="left">
 
----
+
 
 ### pre-service checklist
 
@@ -106,8 +106,6 @@ When everything is on, connect Discord to the auditorium audio and set up the pr
 
 - Keep an eye on the text channel so that people can make requests there. Pass them on to the person who will be praying
 
-\newpage
-
 ## After the service
 
 1. Turn off the projector using the remote
@@ -127,8 +125,6 @@ When everything is on, connect Discord to the auditorium audio and set up the pr
 3. Turn off the recording device
 
 4. Turn off the power bar below the podium.
-
-\newpage
 
 ## WHAT TO DO WHEN...
 
