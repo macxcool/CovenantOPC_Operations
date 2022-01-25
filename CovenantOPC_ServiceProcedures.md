@@ -3,63 +3,48 @@
 ## Before the service
 
 1. Turn on the OpenLP computer (the laptop on the wooden podium) by holding down the power button for about a second
-   
-   a. Everything starts up automatically. Just wait for the OpenLP software to start. Be patient.
+   **NOTE**: Everything starts up automatically. Just wait for the OpenLP software to start. Be patient.
 
 2. Turn on the Discord computer (the laptop on the lower platform) by holding down the power button for about a second
-   
-   a. Everything starts up automatically. Just wait for Discord to start. Be patient.
+   **NOTE**: Everything starts up automatically. Just wait for Discord to start. Be patient.
 
-3. Turn on the overhead projector by firmly pressing the power button on the projector remote control while pointing it at the projector. There is an audible 'beep'.
-   
-   a. Wait for a little while and try again if the projector doesn’t turn on
+3. Turn on the overhead projector by firmly pressing the power button on the projector remote control while pointing it at the projector. There is an audible 'beep', although you may not hear it if there are a lot of people making noise.
+   Wait for a little while and try again if the projector doesn’t turn on
 
 4. Make sure the service file is loaded in the OpenLP software. Services are listed by date and time in the Dropbox folder on the computer. This can be accessed via the file dialog in OpenLP.
    
-   ![](images/open_service.png)
-   
-   1. Prepare for the service start by loading the first item in the service by double clicking on it (it will be the first item in the list)
+   <img src="images/open_service.png" title="" alt="" data-align="left">
 
-      ![](images/first_service_item.png)
+5. Prepare for the service start by loading the first item in the service by double clicking on it (it will be the first item in the list)
+   <img src="images/first_service_item.png" title="" alt="" data-align="left">
 
-2. Blank the screen by clicking the *Show Black* button in OpenLP
-   
-   
-   ![](images/show_black.png)
-   
-   
-   or by hitting '.' on the keyboard (it's marked with green masking tape). the button to the left (or '.', again) shows the presentation once more.
-   
-   ![](images/show_live.png)
+6. Blank the screen by clicking the *Show Black* button in OpenLP   <img title="" src="images/show_black.png" alt="" data-align="left">or by hitting '.' on the keyboard (it's marked with green masking tape). the button to the left (or '.', again) shows the presentation once more.
+   <img src="images/show_live.png" title="" alt="" data-align="left">
 
 5. Make sure the power bar below the podium is turned on. This is the power for the sound board.
 
 6. Make sure the pulpit mic receiver on top of the podium is switched on and set to channel **2**.
 
+7. Turn on the recording device and get it ready to record.
+   <img title="" src="images/recorder.png" alt="" width="194" data-align="left">
+
 When everything is on, connect Discord to the auditorium audio and set up the projector screen streaming (VNC connection) on Discord.
 
 1. Make sure you're viewing the 'Covenant OPC' Discord server by clicking on the server icon on the left
-
-   ![](images/server_icon.png)
-
-2. Scroll down in the channel list until you see the list of 'AUDIO/VIDEO CHANNELS' and click on the 'Presentations/Meetings' channel to connect the Covenant user to the voice channel.
    
-   ![](images/connect_voice.png)
+   <img src="images/server_icon.png" title="" alt="" data-align="left">
+
+2. Scroll down in the channel list until you see the list of 'AUDIO/VIDEO CHANNELS' and click on the '*Presentations/Meetings*' channel to connect the Covenant user to the voice channel.
+   
+   <img src="images/connect_voice.png" title="" alt="" data-align="left">
 
 3. View the *thoughts-on-virtual-worship* text channel by clicking on it in the channel list. This allows you to communicate with viewers about prayer requests and Discord issues.
 
 4. On the Discord computer start the slide viewing connection (VNC client) by clicking the Remmina icon in the notification area (bottom-right) and selecting the only available connection.
 
 5. Start showing the slide view on Discord by clicking 'Screen' near the bottom-left
-   
-   
-   ![](images/screenshare_connect.png)
-   
-   
-   and selecting the window with the projector slides showing under 'Applications'
-   
-   
-   ![](images/screenshare_chooseapp.png)
+   <img src="images/screenshare_connect.png" title="" alt="" data-align="left">and selecting the window with the projector slides showing under 'Applications'
+   <img src="images/screenshare_chooseapp.png" title="" alt="" data-align="left">
 
 ---
 
@@ -127,13 +112,11 @@ When everything is on, connect Discord to the auditorium audio and set up the pr
 
 1. Turn off the projector using the remote
 
-2. Disconnect the Covenant user from the Discord channel by clicking the 'disconnect' button near the bottom-left of the Discord window.
-   
-   ![](images/disconnect_voice.png)
+2. Disconnect the Covenant user from the Discord channel by clicking the 'disconnect' button near the bottom-left of the Discord window.<img src="images/disconnect_voice.png" title="" alt="" data-align="left">
 
 3. Turn off the microphone receiver
 
-4. 
+4. Upload the service audio from the recording device to the website by setting the recorder to USB Storage mode and using the shortcut on the Desktop.
 
 ### if this is the last service of the day
 
@@ -141,7 +124,9 @@ When everything is on, connect Discord to the auditorium audio and set up the pr
 
 2. Turn off the OpenLP computer using the menu
 
-3. ...
+3. Turn off the recording device
+
+4. Turn off the power bar below the podium.
 
 \newpage
 
