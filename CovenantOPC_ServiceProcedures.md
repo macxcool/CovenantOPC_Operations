@@ -16,16 +16,23 @@
    <img src="images/open_service.png" title="" alt="" data-align="left">
 
 5. Prepare for the service start by loading the first item in the service by double clicking on it (it will be the first item in the list)
+   
    <img src="images/first_service_item.png" title="" alt="" data-align="left">
 
-6. Blank the screen by clicking the *Show Black* button in OpenLP   <img title="" src="images/show_black.png" alt="" data-align="left">or by hitting '.' on the keyboard (it's marked with green masking tape). the button to the left (or '.', again) shows the presentation once more.
-   <img src="images/show_live.png" title="" alt="" data-align="left">
+6. Blank the screen by clicking the *Show Black* button in OpenLP
 
-5. Make sure the power bar below the podium is turned on. This is the power for the sound board.
+<img title="" src="images/show_black.png" alt="" data-align="left">
 
-6. Make sure the pulpit mic receiver on top of the podium is switched on and set to channel **2**.
+   or by hitting '.' on the keyboard (it's marked with green masking tape). the button to the left (or '.', again) shows the presentation once more.
 
-7. Turn on the recording device and get it ready to record.
+<img src="images/show_live.png" title="" alt="" data-align="left">
+
+7. Make sure the power bar below the podium is turned on. This is the power for the sound board.
+
+8. Make sure the pulpit mic receiver on top of the podium is switched on and set to channel **2**.
+
+9. Turn on the recording device and get it ready to record.
+   
    <img title="" src="images/recorder.png" alt="" width="194" data-align="left">
 
 When everything is on, connect Discord to the auditorium audio and set up the projector screen streaming (VNC connection) on Discord.
@@ -43,8 +50,14 @@ When everything is on, connect Discord to the auditorium audio and set up the pr
 4. On the Discord computer start the slide viewing connection (VNC client) by clicking the Remmina icon in the notification area (bottom-right) and selecting the only available connection.
 
 5. Start showing the slide view on Discord by clicking 'Screen' near the bottom-left
-   <img src="images/screenshare_connect.png" title="" alt="" data-align="left">and selecting the window with the projector slides showing under 'Applications'
-   <img src="images/screenshare_chooseapp.png" title="" alt="" data-align="left">
+   
+   <img src="images/screenshare_connect.png" title="" alt="" data-align="left">
+   
+   and selecting the window with the projector slides showing under 'Applications'
+
+<img src="images/screenshare_chooseapp.png" title="" alt="" data-align="left">
+
+<div style="break-after:page"></div>
 
 ### pre-service checklist
 
@@ -72,7 +85,7 @@ When everything is on, connect Discord to the auditorium audio and set up the pr
 
 - [ ] The recording device is on and ready
 
-\newpage
+<div style="break-after:page"></div>
 
 ## During the service
 
@@ -104,11 +117,15 @@ When everything is on, connect Discord to the auditorium audio and set up the pr
 
 - Keep an eye on the text channel so that people can make requests there. Pass them on to the person who will be praying
 
+<div style="break-after:page"></div>
+
 ## After the service
 
 1. Turn off the projector using the remote
 
-2. Disconnect the Covenant user from the Discord channel by clicking the 'disconnect' button near the bottom-left of the Discord window.<img src="images/disconnect_voice.png" title="" alt="" data-align="left">
+2. Disconnect the Covenant user from the Discord channel by clicking the 'disconnect' button near the bottom-left of the Discord window.
+   
+   <img src="images/disconnect_voice.png" title="" alt="" data-align="left">
 
 3. Turn off the microphone receiver
 
@@ -124,6 +141,8 @@ When everything is on, connect Discord to the auditorium audio and set up the pr
 
 4. Turn off the power bar below the podium.
 
+<div style="break-after:page"></div>
+
 ## WHAT TO DO WHEN...
 
 ### the projector won't turn on
@@ -138,8 +157,16 @@ When everything is on, connect Discord to the auditorium audio and set up the pr
 
 - restart the VNC server on the OpenLP (podium) computer by double-clicking on the shortcut on the desktop. Minimize OpenLP first. Then try to connect again.
 
-### The mic audio isn't coming through the speaker
+### the mic audio isn't coming through the speaker
 
 - make sure the receiver is switched on
 
 - make sure the channel is set to **2**
+
+### the audio coming over the speaker is too loud or too soft
+
+- the knob on the sound board labelled '*Master*' controlled the level of audio going to the speaker
+
+- the wireless mic. is controlled by '*Channel 1*' on the sound board
+
+- the '*Monitor*' control changes the audio going to the nursery and to the Discord computer
